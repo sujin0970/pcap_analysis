@@ -1,4 +1,4 @@
 # pcap_analysis
 
-# make
-# sudo ./network-major smstp.pcap
+ make
+ sudo ./network-major smstp.pcap
